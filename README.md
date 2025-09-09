@@ -11,5 +11,5 @@ This project helped me better understand Rust fundamentals, including **ownershi
   ```
 - Build this project:
   ```
-  cargo run
+  cargo build
   ```
